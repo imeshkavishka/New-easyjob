@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="welcome_card_background" />
+    <drawable name="hire_people_background" />
+    <drawable name="dashboard_gradient_background" />
+    <drawable name="find_jobs_background" />
+    <drawable name="ic_chat_bot" />
+    <drawable name="home" />
+    <drawable name="chat" />
+    <drawable name="ic_favorite" />
+    <drawable name="ic_profile" />
+    <drawable name="ic_close" />
+    <drawable name="chat_button_background" />
+    <drawable name="ic_send" />
+    <drawable name="send_button_background" />
+    <drawable name="chat_input_background" />
+    <drawable name="edittext_background" />
+    <drawable name="otp_box_background" />
+    <drawable name="gradient_background" />
+    <drawable name="button_background" />
+    <drawable name="ref_welcome_card_background" />
+    <drawable name="ref_hire_people_background" />
+    <drawable name="ref_dashboard_gradient_background" />
+    <drawable name="ref_find_jobs_background" />
+    <!-- Remove duplicates of actual image files -->
+    <!-- <drawable name="chat" /> REMOVE THIS LINE -->
+    <!-- <drawable name="home" /> REMOVE THIS LINE -->
+    <drawable name="ref_chat_button_background" />
+    <drawable name="ref_chat_input_background" />
+</resources>

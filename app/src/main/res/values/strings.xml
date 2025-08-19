@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Easyjob</string>
+
+
+        <!-- Signup Activity Strings -->
+        <string name="signup_title">Create Account</string>
+        <string name="username_hint">Username</string>
+        <string name="name_hint">Full Name</string>
+        <string name="email_hint">Email</string>
+        <string name="password_hint">Password</string>
+        <string name="confirm_password_hint">Confirm Password</string>
+        <string name="dob_hint">Date of Birth (DD/MM/YYYY)</string>
+        <string name="gender_hint">Gender</string>
+        <string name="mobile_hint">Mobile Number</string>
+        <string name="address_hint">Address</string>
+        <string name="remember_me">Remember me</string>
+        <string name="signup_button">Sign Up</string>
+        <string name="login_prompt">Already have an account? Login</string>
+
+        <!-- Validation messages -->
+        <string name="required_field">This field is required</string>
+        <string name="password_mismatch">Passwords do not match</string>
+        <string name="password_length">Password must be at least 6 characters</string>
+        <string name="invalid_email">Please enter a valid email address</string>
+        <string name="email_exists">Email already registered</string>
+        <string name="registration_success">Registration successful!</string>
+        <string name="registration_failed">Registration failed</string>
+
+        <!-- Login Activity Strings (for reference) -->
+        <string name="login_title">Login</string>
+        <string name="forgot_password">Forgot Password</string>
+        <string name="login_button">Login</string>
+        <string name="signup_prompt">Don\'t have an account? Sign Up</string>
+        <string name="fingerprint">Finger Print</string>
+    </resources>

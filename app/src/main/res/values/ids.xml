@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imageView8" type="id" />
+    <item name="logoImage" type="id" />
+    <item name="titleText" type="id" />
+    <item name="passwordLayout" type="id" />
+    <item name="passwordEditText" type="id" />
+    <item name="forgotPassword" type="id" />
+    <item name="fingerprintText" type="id" />
+    <item name="fingerprintIcon" type="id" />
+    <item name="signupText" type="id" />
+    <item name="textView2" type="id" />
+    <item name="editPassword" type="id" />
+    <item name="editEmail" type="id" />
+    <item name="resetButton" type="id" />
+</resources>
