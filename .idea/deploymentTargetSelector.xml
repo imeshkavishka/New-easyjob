@@ -4,14 +4,20 @@
     <selectionStates>
       <SelectionState runConfigName="app">
         <option name="selectionMode" value="DROPDOWN" />
-        <DropdownSelection timestamp="2025-08-16T08:52:13.466553500Z">
+        <DropdownSelection timestamp="2025-08-20T21:39:16.596003700Z">
           <Target type="DEFAULT_BOOT">
             <handle>
-              <DeviceId pluginId="LocalEmulator" identifier="path=C:\Users\W.A.H Denuwan\.android\avd\Pixel_6_API_36.avd" />
+              <DeviceId pluginId="LocalEmulator" identifier="path=C:\Users\W.A.H Denuwan\.android\avd\Pixel_6_Pro_2.avd" />
             </handle>
           </Target>
         </DropdownSelection>
         <DialogSelection />
+      </SelectionState>
+      <SelectionState runConfigName="HirePeopleActivity">
+        <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
+      <SelectionState runConfigName="HirePeopleActivity (1)">
+        <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
     </selectionStates>
   </component>

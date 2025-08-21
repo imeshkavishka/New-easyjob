@@ -44,9 +44,7 @@ public class LoginActivity extends AppCompatActivity {
             }
         });
 
-        forgotPasswordText.setOnClickListener(v -> {
-            startActivity(new Intent(this, ForgotPasswordActivity.class));
-        });
+
 
         dbHelper = new DatabaseHelper(this); // Optional for real validation
     }

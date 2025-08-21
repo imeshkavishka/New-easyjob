@@ -3,10 +3,15 @@ agp = "8.11.1"
 junit = "4.13.2"
 junitVersion = "1.2.1"
 espressoCore = "3.6.1"
-appcompat = "1.7.1"
-material = "1.12.0"
+appcompat = "1.7.1"  # Updated to latest
+material = "1.12.0"  # Updated to latest
 activity = "1.10.1"
-constraintlayout = "2.2.1"
+constraintlayout = "2.2.1"  # Updated to latest
+# Updated Google Play Services versions
+play-services-maps = "19.2.0"
+play-services-location = "21.3.0"
+play-services-tasks = "18.3.2"
+multidex = "2.0.1"
 
 [libraries]
 junit = { group = "junit", name = "junit", version.ref = "junit" }
@@ -16,7 +21,11 @@ appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "a
 material = { group = "com.google.android.material", name = "material", version.ref = "material" }
 activity = { group = "androidx.activity", name = "activity", version.ref = "activity" }
 constraintlayout = { group = "androidx.constraintlayout", name = "constraintlayout", version.ref = "constraintlayout" }
+# Google Play Services libraries
+play-services-maps = { group = "com.google.android.gms", name = "play-services-maps", version.ref = "play-services-maps" }
+play-services-location = { group = "com.google.android.gms", name = "play-services-location", version.ref = "play-services-location" }
+play-services-tasks = { group = "com.google.android.gms", name = "play-services-tasks", version.ref = "play-services-tasks" }
+multidex = { group = "androidx.multidex", name = "multidex", version.ref = "multidex" }
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
-
